@@ -1,16 +1,13 @@
 <h1 align="center" style="display: block; font-size: 2.5em; font-weight: bold; margin-block-start: 1em; margin-block-end: 1em;">  
    Hi there, I'm George 👨‍💻 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h3>
-  <p align="center">  
-    <a  href="https://www.linkedin.com/in/george-jnr-oti-adjei/">  
-        <img  alt="George Heavenson Jnr. Oti-Adjei"  src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" width="20" />  
-    </a>  
-    <a  href="https://mobile.twitter.com/oti__adjei">  
-        <img  alt="George Heavenson Jnr. Oti-Adjei"  src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" width="20"/>  
-    </a>  
-    <a href="https://m.facebook.com/Hcgeorge">  
-      <img  alt="License"  src="https://github.com/devicons/devicon/blob/master/icons/facebook/facebook-original.svg" width="20">  
-    </a>
-</p>
+   <p align='center'>
+  
+  <a href="https://www.linkedin.com/in/george-jnr-oti-adjei/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;&nbsp;
+  <a href="https://mobile.twitter.com/oti__adjei">
+    <img src="https://img.shields.io/badge/twitter-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
+  </a>&nbsp;&nbsp;
 </h1>
 
 
@@ -31,9 +28,7 @@ I am a Full Stack Developer focused on Frontend and Client Development  <img src
 ---
 
 ## Find me around the web 🌎: <a href="https://github.com/sponsors/M0nica"><img align="left" width="150" height="150" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true"></a>
-- 📫 How to reach me: &nbsp; <a  href="https://www.linkedin.com/in/george-jnr-oti-adjei/">  
-        <img  alt="George Heavenson Jnr. Oti-Adjei"  src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" width="20" />  
-    </a>  [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kakbar)
+- 📫 How to reach me: &nbsp; <a  href="https://www.linkedin.com/in/george-jnr-oti-adjei/"> <img  alt="George Heavenson Jnr. Oti-Adjei"  src="https://github.com/devicons/devicon/blob/master/icons/instagram/instagram-original.svg" width="20" />  </a>  <a  href="https://instagram.com/oti__adjei"><img  alt="George Heavenson Jnr. Oti-Adjei"  src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" width="20"/></a>  <a href="https://m.facebook.com/Hcgeorge"><img  alt="License"  src="https://github.com/devicons/devicon/blob/master/icons/facebook/facebook-original.svg" width="20"></a>
 - Learning in public on <a href="https://www.twitch.tv/blacktechdiva">Twitch</a> or <a href="https://www.monica.dev">monica.dev</a> 📹 ✍🏾
 - Tinkering with interactions on <a href="https://codepen.io/m0nica"> Codepen</a> 🏓
 - Sharing updates on <a href="https://www.linkedin.com/in/monicampowell/">LinkedIn</a> 💼
