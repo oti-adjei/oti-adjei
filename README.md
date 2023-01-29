@@ -28,12 +28,8 @@ I am a Full Stack Developer focused on Frontend and Client Development  <img src
 ---
 
 ## Find me around the web 🌎: <a href="https://github.com/sponsors/M0nica"><img align="left" width="150" height="150" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true"></a>
-- 📫 How to reach me: &nbsp; 
-<!-- - <a  href="https://www.linkedin.com/in/george-jnr-oti-adjei/"> <img  alt="George Heavenson Jnr. Oti-Adjei"  src="https://github.com/devicons/devicon/blob/master/icons/instagram/instagram-original.svg" width="20" />  </a>   -->
-- <a  href="https://instagram.com/oti__adjei"><img  alt="George Heavenson Jnr. Oti-Adjei"  src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" width="20"/></a> 
-<a href="https://m.facebook.com/Hcgeorge"><img  alt="License"  src="https://github.com/devicons/devicon/blob/master/icons/facebook/facebook-original.svg" width="20"></a>
+- 📫 How to reach me: &nbsp; <a  href="https://instagram.com/oti__adjei"><img  alt="George Heavenson Jnr. Oti-Adjei"  src="https://github.com/devicons/devicon/blob/master/icons/instagram/instagram-original.svg" width="20"/></a> <a href="https://m.facebook.com/Hcgeorge"><img  alt="License"  src="https://github.com/devicons/devicon/blob/master/icons/facebook/facebook-original.svg" width="20"></a>
 - Learning and streaming for fun in public on <a href="https://www.twitch.tv/blacktechdiva">Twitch</a>
-<!-- - Tinkering with interactions on <a href="https://codepen.io/m0nica"> Codepen</a> 🏓-->
 - Sharing updates on <a href="https://www.linkedin.com/in/georg-jrr/">LinkedIn</a> 💼
 
 ---
