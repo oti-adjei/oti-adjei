@@ -16,7 +16,7 @@
 
 ### :man_technologist: &nbsp;About Me :
 
-I am a Full Stack Developer focused on Frontend and Client Development  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Accra,Ghana.
+I am a Developer focused on Frontend and Client Development  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Accra,Ghana.
   
 <img align="right" width="150" height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" >
   
