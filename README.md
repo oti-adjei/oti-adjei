@@ -20,10 +20,10 @@ I am a Developer focused on Frontend and Client Development  <img src="https://m
   
 <img align="right" width="150" height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" >
   
-- 🔭 I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- 🔭 I’m working as a Software Engineer and contributing to frontend and backend for building mobiek and web applications.
 -   I am passionate about making contributing to open-source more approachable, creating technology to elevate people, and building community.
 - 🌱 Exploring Technical Content Writing.
-- ⚡ In my free time I solve problems on GeeksforGeeks and read tech articles.
+- ⚡ In my free time I play video games and read tech articles.
 
 ---
 
