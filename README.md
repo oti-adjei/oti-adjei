@@ -27,7 +27,7 @@ I am a Developer focused on Frontend and Client Development  <img src="https://m
 
 ---
 
-## Find me around the web 🌎: <a href="https://github.com/sponsors/M0nica"><img align="left" width="150" height="150" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true"></a>
+## Find me around the web 🌎:<img align="left" width="150" height="150" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true"></a>
 - 📫 How to reach me: &nbsp; <a  href="https://instagram.com/oti__adjei"><img  alt="George Heavenson Jnr. Oti-Adjei"  src="https://github.com/devicons/devicon/blob/master/icons/instagram/instagram-original.svg" width="20"/></a> <a href="https://m.facebook.com/Hcgeorge"><img  alt="License"  src="https://github.com/devicons/devicon/blob/master/icons/facebook/facebook-original.svg" width="20"></a>
 - Learning and streaming for fun in public on <a href="https://www.twitch.tv/blacktechdiva">Twitch</a>
 - Sharing updates on <a href="https://www.linkedin.com/in/georg-jrr/">LinkedIn</a> 💼
@@ -46,11 +46,11 @@ I am a Developer focused on Frontend and Client Development  <img src="https://m
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman"  alt="Postman" width="40" height="40"/>&nbsp;
 </p>
 
----
+<!-- ---
 
 ### 🔥 &nbsp; My Stats :
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=oti-adjei&theme=calm&hide_border=true)](https://git.io/streak-stats)
-
+ -->
 ![George's GitHub stats](https://github-readme-stats.vercel.app/api?username=oti-adjei&show_icons=true&theme=vue)
 
 ---
