@@ -20,13 +20,7 @@ I am a Developer focused on Frontend and Client Development  <img src="https://m
 <img align="right" width="150" height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" >
 - 🔭 I’m working as a Software Engineer and contributing to frontend and backend for building mobiek and web applications.I am passionate about making contributing to open-source more approachable, creating technology to elevate people, and building community.
 - 🌱 Now exploring the world of Technical Content Writing. ⚡ In my free time I play video games and read tech articles.
-
----
-
-## Find me around the web 🌎:<img align="left" width="150" height="150" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true"></a>
-- 📫 How to reach me: &nbsp; <a  href="https://instagram.com/oti__adjei"><img  alt="George Heavenson Jnr. Oti-Adjei"  src="https://github.com/devicons/devicon/blob/master/icons/instagram/instagram-original.svg" width="20"/></a> <a href="https://m.facebook.com/Hcgeorge"><img  alt="License"  src="https://github.com/devicons/devicon/blob/master/icons/facebook/facebook-original.svg" width="20"></a>
 - Learning and streaming for fun in public on <a href="https://www.twitch.tv/blacktechdiva">Twitch</a>
-- Sharing updates on <a href="https://www.linkedin.com/in/georg-jrr/">LinkedIn</a> 💼
 
 ---
 
