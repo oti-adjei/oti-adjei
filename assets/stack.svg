@@ -11,23 +11,23 @@
   <line x1="138" y1="8" x2="138" y2="230" stroke="var(--rule)" stroke-width="1" opacity=".4"/>
 
   <text class="mono rise a1" x="48" y="32"  font-size="12" fill="var(--muted)" letter-spacing="2">LANGUAGES</text>
-  <text class="mono rise a1" x="154" y="32"  font-size="15" fill="var(--bone)">TypeScript &#183; Dart &#183; Python &#183; Go &#183; C &#183; PHP</text>
+  <text class="mono rise a1" x="154" y="32"  font-size="15" fill="var(--bone)">TypeScript &#183; Go &#183; Dart &#183; Python &#183; C &#183; PHP</text>
 
   <text class="mono rise a2" x="48" y="64"  font-size="12" fill="var(--muted)" letter-spacing="2">MOBILE</text>
   <text class="mono rise a2" x="154" y="64"  font-size="15" fill="var(--bone)">Flutter &#183; Dart &#183; Provider / Riverpod &#183; Firebase</text>
 
   <text class="mono rise a3" x="48" y="96"  font-size="12" fill="var(--muted)" letter-spacing="2">WEB</text>
-  <text class="mono rise a3" x="154" y="96"  font-size="15" fill="var(--bone)">Next.js &#183; React &#183; TypeScript &#183; Tailwind &#183; Strapi</text>
+  <text class="mono rise a3" x="154" y="96"  font-size="15" fill="var(--bone)">Astro &#183; Next.js &#183; React &#183; Tailwind &#183; Sanity &#183; Strapi</text>
 
-  <text class="mono rise a4" x="48" y="128" font-size="12" fill="var(--muted)" letter-spacing="2">BACKEND</text>
-  <text class="mono rise a4" x="154" y="128" font-size="15" fill="var(--bone)">Node.js &#183; Express &#183; NestJS &#183; REST APIs &#183; JWT auth</text>
+  <text class="mono rise a4" x="48" y="128" font-size="12" fill="var(--muted)" letter-spacing="2">SERVICES</text>
+  <text class="mono rise a4" x="154" y="128" font-size="15" fill="var(--bone)">Go &#183; Hono &#183; Node.js &#183; Express &#183; REST APIs &#183; JWT auth</text>
 
   <text class="mono rise a5" x="48" y="160" font-size="12" fill="var(--muted)" letter-spacing="2">DATA</text>
-  <text class="mono rise a5" x="154" y="160" font-size="15" fill="var(--bone)">PostgreSQL &#183; MySQL &#183; MongoDB &#183; Prisma &#183; Supabase</text>
+  <text class="mono rise a5" x="154" y="160" font-size="15" fill="var(--bone)">PostgreSQL &#183; PL/pgSQL &#183; MySQL &#183; MongoDB &#183; Prisma &#183; Supabase</text>
 
   <text class="mono rise a6" x="48" y="192" font-size="12" fill="var(--muted)" letter-spacing="2">TOOLING</text>
-  <text class="mono rise a6" x="154" y="192" font-size="15" fill="var(--bone)">Go CLIs &#183; Homebrew taps &#183; Docker &#183; Git &#183; Figma &#183; Postman</text>
+  <text class="mono rise a6" x="154" y="192" font-size="15" fill="var(--bone)">Cobra CLIs &#183; GoReleaser &#183; Homebrew taps &#183; Docker &#183; Figma &#183; Postman</text>
 
   <text class="mono rise a7" x="48" y="224" font-size="12" fill="var(--muted)" letter-spacing="2">SYSTEMS</text>
-  <text class="mono rise a7" x="154" y="224" font-size="15" fill="var(--bone)">C &#183; shell scripting &#183; Linux &#183; networking &#183; data structures</text>
+  <text class="mono rise a7" x="154" y="224" font-size="15" fill="var(--bone)">C &#183; systemd &#183; Docker Compose &#183; shell scripting &#183; Linux &#183; networking</text>
 </svg>

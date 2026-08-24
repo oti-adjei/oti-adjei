@@ -1,8 +1,11 @@
-<svg viewBox="0 0 1000 1360" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Twelve selected projects by George Heavenson">
+<svg viewBox="0 0 1000 2438" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Twenty-one selected projects by George Heavenson, grouped into Senvon Atelier studio work and independent tooling">
   <style>
     .mono { font-family:ui-monospace,"SFMono-Regular","SF Mono",Menlo,Consolas,"Liberation Mono",monospace; }
     .row { opacity:0; animation:reveal .55s cubic-bezier(.2,.7,.2,1) forwards; }
     .rule { stroke:var(--rule); stroke-width:1; }
+    .grule { stroke:var(--rule); stroke-width:1; opacity:.5; }
+    .glabel { fill:var(--accent); font-size:11px; letter-spacing:3.5px; }
+    .ghead { opacity:0; animation:reveal .6s ease forwards; }
     .title { fill:var(--ink); font-size:17px; font-weight:700; letter-spacing:.8px; }
     .copy { fill:var(--muted); font-size:12px; }
     .meta { fill:var(--dim); font-size:11px; letter-spacing:.4px; }
@@ -10,90 +13,155 @@
     .r1{animation-delay:.05s}.r2{animation-delay:.10s}.r3{animation-delay:.15s}.r4{animation-delay:.20s}.r5{animation-delay:.25s}
     .r6{animation-delay:.30s}.r7{animation-delay:.35s}.r8{animation-delay:.40s}.r9{animation-delay:.45s}.r10{animation-delay:.50s}
     .r11{animation-delay:.55s}.r12{animation-delay:.60s}
-    @media (prefers-reduced-motion:reduce) { .row { animation:none; opacity:1; } }
+    @media (prefers-reduced-motion:reduce) { .row,.ghead { animation:none; opacity:1; } }
     :root { --bone:#0A0A0A; --muted:#6E6E6E; --dim:#9A9A9A; --rule:#D8D8D8; --accent:#0A0A0A; --ghost:#EBEBEB; --node-bg:#FFFFFF; --core-bg:#F4F4F4; --ink:#0A0A0A; --paper:#FFFFFF; }
   </style>
 
   <g class="mono">
-    <g class="row r1" transform="translate(0 20)">
-      <text class="title" x="48" y="24">01 / PORTFOLIO</text>
-      <text class="copy" x="48" y="49">Personal portfolio and case-study site &#8212; the front door for client work and the projects below.</text>
-      <text class="copy" x="48" y="68">Component-driven layout with typography-first design, built to load fast and stay easy to extend.</text>
-      <text class="meta" x="48" y="87">NEXT.JS &#183; TYPESCRIPT &#183; TAILWIND &#183; VERCEL</text>
+    <g class="ghead"><text class="glabel" x="48" y="38">STUDIO WORK &#8212; SENVON ATELIER</text><line class="grule" x1="48" y1="50" x2="952" y2="50"/></g>
+    <g class="row r1" transform="translate(0 64)">
+      <text class="title" x="48" y="24">01 / HOMESWEETHOME</text>
+      <text class="copy" x="48" y="49">Four-service property platform: a Go core API, a Hono authentication and identity service, a web client and a Flutter app.</text>
+      <text class="copy" x="48" y="68">Auth handles registration, sessions, tokens and authorization; the Go API carries business logic, data access and integrations.</text>
+      <text class="meta" x="48" y="87">GO &#183; HONO &#183; TYPESCRIPT &#183; FLUTTER &#183; POSTGRESQL</text>
       <line class="rule" x1="48" y1="104" x2="952" y2="104"/>
     </g>
-    <g class="row r2" transform="translate(0 130)">
-      <text class="title" x="48" y="24">02 / IVAN THE FOTOGRAPHER</text>
-      <text class="copy" x="48" y="49">Commissioned portfolio for a working photographer, built around large imagery and fast galleries.</text>
-      <text class="copy" x="48" y="68">Image-heavy pages tuned for load performance so the work reads first and the interface stays quiet.</text>
-      <text class="meta" x="48" y="87">TYPESCRIPT &#183; NEXT.JS &#183; IMAGE OPTIMISATION &#183; CLIENT WORK</text>
+    <g class="row r2" transform="translate(0 174)">
+      <text class="title" x="48" y="24">02 / NAGYIQUE BOUTIQUE</text>
+      <text class="copy" x="48" y="49">Full e-commerce build for a boutique: Astro storefront, Astro admin portal, and a TypeScript API behind both.</text>
+      <text class="copy" x="48" y="68">A Next.js platform repo folds API and admin together, so merchandising changes ship without touching the storefront.</text>
+      <text class="meta" x="48" y="87">ASTRO &#183; NEXT.JS &#183; TYPESCRIPT &#183; REST &#183; E-COMMERCE</text>
       <line class="rule" x1="48" y1="104" x2="952" y2="104"/>
     </g>
-    <g class="row r3" transform="translate(0 240)">
-      <text class="title" x="48" y="24">03 / NAWURA ANGYIQUE BOUTIQUE</text>
-      <text class="copy" x="48" y="49">Storefront for a boutique e-commerce platform: catalogue, product detail, cart and checkout flow.</text>
-      <text class="copy" x="48" y="68">Presentation layer talks to a Strapi backend, keeping merchandising editable without a redeploy.</text>
-      <text class="meta" x="48" y="87">TYPESCRIPT &#183; STRAPI &#183; REST &#183; E-COMMERCE</text>
+    <g class="row r3" transform="translate(0 284)">
+      <text class="title" x="48" y="24">03 / SENVON PLATFORM</text>
+      <text class="copy" x="48" y="49">The studio&#39;s own stack &#8212; public site, a Hono backend service, and an Astro admin app with Sanity Studio embedded.</text>
+      <text class="copy" x="48" y="68">Plus a reusable e-commerce template that gives every new client project a working baseline on day one.</text>
+      <text class="meta" x="48" y="87">ASTRO &#183; HONO &#183; SANITY &#183; TYPESCRIPT &#183; TEMPLATING</text>
       <line class="rule" x1="48" y1="104" x2="952" y2="104"/>
     </g>
-    <g class="row r4" transform="translate(0 350)">
-      <text class="title" x="48" y="24">04 / ARKYT</text>
+    <g class="row r4" transform="translate(0 394)">
+      <text class="title" x="48" y="24">04 / GULLIVERS TRAVEL HOTEL</text>
+      <text class="copy" x="48" y="49">Website for a travel hotel &#8212; rooms, amenities and enquiry flow presented for guests deciding where to stay.</text>
+      <text class="copy" x="48" y="68">Content-driven pages built to stay fast on mobile connections and easy for staff to keep current.</text>
+      <text class="meta" x="48" y="87">TYPESCRIPT &#183; WEB &#183; HOSPITALITY &#183; CLIENT WORK</text>
+      <line class="rule" x1="48" y1="104" x2="952" y2="104"/>
+    </g>
+    <g class="row r5" transform="translate(0 504)">
+      <text class="title" x="48" y="24">05 / ROYAL PARK</text>
+      <text class="copy" x="48" y="49">Client website build covering brand presentation, service pages and contact routing.</text>
+      <text class="copy" x="48" y="68">Structured so copy and imagery can be revised without a developer in the loop.</text>
+      <text class="meta" x="48" y="87">TYPESCRIPT &#183; WEB &#183; CLIENT WORK</text>
+      <line class="rule" x1="48" y1="104" x2="952" y2="104"/>
+    </g>
+    <g class="row r6" transform="translate(0 614)">
+      <text class="title" x="48" y="24">06 / MUMMYS DARL EDUCATIONAL CENTRE</text>
+      <text class="copy" x="48" y="49">Landing site for an educational centre: programmes, admissions information and enquiry capture for parents.</text>
+      <text class="copy" x="48" y="68">Plain, quick and readable &#8212; the audience arrives on phones and wants answers, not animation.</text>
+      <text class="meta" x="48" y="87">TYPESCRIPT &#183; WEB &#183; EDUCATION &#183; CLIENT WORK</text>
+      <line class="rule" x1="48" y1="104" x2="952" y2="104"/>
+    </g>
+    <g class="row r7" transform="translate(0 724)">
+      <text class="title" x="48" y="24">07 / LOBAB KIDS ACADEMY</text>
+      <text class="copy" x="48" y="49">Landing frontend for a children&#39;s academy, replacing an older static site with something maintainable.</text>
+      <text class="copy" x="48" y="68">Second pass at a client first built years earlier, rebuilt on the studio&#39;s current stack.</text>
+      <text class="meta" x="48" y="87">TYPESCRIPT &#183; WEB &#183; EDUCATION &#183; CLIENT WORK</text>
+      <line class="rule" x1="48" y1="104" x2="952" y2="104"/>
+    </g>
+    <g class="row r8" transform="translate(0 834)">
+      <text class="title" x="48" y="24">08 / LUE COSMETICS</text>
+      <text class="copy" x="48" y="49">Case study for a cosmetics shop: a Go backend with Go templates, paired with a TypeScript storefront.</text>
+      <text class="copy" x="48" y="68">The largest Go codebase in the studio &#8212; product catalogue, cart and order handling behind a styled front end.</text>
+      <text class="meta" x="48" y="87">GO &#183; GO TEMPLATES &#183; TYPESCRIPT &#183; E-COMMERCE</text>
+      <line class="rule" x1="48" y1="104" x2="952" y2="104"/>
+    </g>
+    <g class="row r9" transform="translate(0 944)">
+      <text class="title" x="48" y="24">09 / GATORAID</text>
+      <text class="copy" x="48" y="49">Most recent studio build, in active development &#8212; an even split of Go and TypeScript.</text>
+      <text class="copy" x="48" y="68">Go services over PostgreSQL with stored procedures, containerised, behind a TypeScript client.</text>
+      <text class="meta" x="48" y="87">GO &#183; TYPESCRIPT &#183; POSTGRESQL &#183; PL/PGSQL &#183; DOCKER</text>
+      <line class="rule" x1="48" y1="104" x2="952" y2="104"/>
+    </g>
+    <g class="ghead"><text class="glabel" x="48" y="1072">TOOLING &amp; INDEPENDENT</text><line class="grule" x1="48" y1="1084" x2="952" y2="1084"/></g>
+    <g class="row r10" transform="translate(0 1098)">
+      <text class="title" x="48" y="24">10 / ZOOK</text>
+      <text class="copy" x="48" y="49">Tiny deploy controller for Docker Compose and native systemd applications &#8212; one binary, no agent to babysit.</text>
+      <text class="copy" x="48" y="68">Released through GoReleaser and installable from a personal Homebrew tap: brew install oti-adjei/tap/zook</text>
+      <text class="meta" x="48" y="87">GO &#183; GORELEASER &#183; DOCKER COMPOSE &#183; SYSTEMD &#183; HOMEBREW</text>
+      <line class="rule" x1="48" y1="104" x2="952" y2="104"/>
+    </g>
+    <g class="row r11" transform="translate(0 1208)">
+      <text class="title" x="48" y="24">11 / ARKYT</text>
       <text class="copy" x="48" y="49">Scaffolding CLI that generates project boilerplate across tech stacks, starting with Flutter.</text>
       <text class="copy" x="48" y="68">Modular command and scaffold packages keep new stacks &#8212; Go, Express &#8212; additive rather than invasive.</text>
       <text class="meta" x="48" y="87">GO &#183; COBRA &#183; CLI &#183; TEMPLATING</text>
       <line class="rule" x1="48" y1="104" x2="952" y2="104"/>
     </g>
-    <g class="row r5" transform="translate(0 460)">
-      <text class="title" x="48" y="24">05 / PAYQUILL</text>
+    <g class="row r12" transform="translate(0 1318)">
+      <text class="title" x="48" y="24">12 / PORTFOLIO</text>
+      <text class="copy" x="48" y="49">Personal portfolio and case-study site &#8212; the front door for client work and the projects below.</text>
+      <text class="copy" x="48" y="68">Component-driven layout with typography-first design, built to load fast and stay easy to extend.</text>
+      <text class="meta" x="48" y="87">NEXT.JS &#183; TYPESCRIPT &#183; TAILWIND &#183; VERCEL</text>
+      <line class="rule" x1="48" y1="104" x2="952" y2="104"/>
+    </g>
+    <g class="row r12" transform="translate(0 1428)">
+      <text class="title" x="48" y="24">13 / IVAN THE FOTOGRAPHER</text>
+      <text class="copy" x="48" y="49">Commissioned portfolio for a working photographer, built around large imagery and fast galleries.</text>
+      <text class="copy" x="48" y="68">Image-heavy pages tuned for load performance so the work reads first and the interface stays quiet.</text>
+      <text class="meta" x="48" y="87">TYPESCRIPT &#183; NEXT.JS &#183; IMAGE OPTIMISATION &#183; CLIENT WORK</text>
+      <line class="rule" x1="48" y1="104" x2="952" y2="104"/>
+    </g>
+    <g class="row r12" transform="translate(0 1538)">
+      <text class="title" x="48" y="24">14 / PAYQUILL</text>
       <text class="copy" x="48" y="49">Invoice and receipt generator for small operators who need documents out the door quickly.</text>
       <text class="copy" x="48" y="68">Handles line items, totals and export so billing stops being a spreadsheet exercise.</text>
       <text class="meta" x="48" y="87">TYPESCRIPT &#183; NODE.JS &#183; PDF EXPORT &#183; BILLING</text>
       <line class="rule" x1="48" y1="104" x2="952" y2="104"/>
     </g>
-    <g class="row r6" transform="translate(0 570)">
-      <text class="title" x="48" y="24">06 / CHRYSALIS BLUEPRINT</text>
+    <g class="row r12" transform="translate(0 1648)">
+      <text class="title" x="48" y="24">15 / CHRYSALIS BLUEPRINT</text>
       <text class="copy" x="48" y="49">Automates Discord server creation by generating whole channel, category and role structures.</text>
       <text class="copy" x="48" y="68">Turns a repeated hour of manual setup into a declarative blueprint applied in one pass.</text>
       <text class="meta" x="48" y="87">TYPESCRIPT &#183; DISCORD API &#183; AUTOMATION</text>
       <line class="rule" x1="48" y1="104" x2="952" y2="104"/>
     </g>
-    <g class="row r7" transform="translate(0 680)">
-      <text class="title" x="48" y="24">07 / AETHER-CARE</text>
+    <g class="row r12" transform="translate(0 1758)">
+      <text class="title" x="48" y="24">16 / AETHER-CARE</text>
       <text class="copy" x="48" y="49">Healthcare management API covering patient records, appointments and clinical workflow endpoints.</text>
       <text class="copy" x="48" y="68">Typed service layer with authentication and role separation across clinical and admin access.</text>
       <text class="meta" x="48" y="87">TYPESCRIPT &#183; NODE.JS &#183; REST API &#183; HEALTHCARE</text>
       <line class="rule" x1="48" y1="104" x2="952" y2="104"/>
     </g>
-    <g class="row r8" transform="translate(0 790)">
-      <text class="title" x="48" y="24">08 / LOANIFY</text>
+    <g class="row r12" transform="translate(0 1868)">
+      <text class="title" x="48" y="24">17 / LOANIFY</text>
       <text class="copy" x="48" y="49">Loan management system split across a TypeScript backend and a Flutter client.</text>
       <text class="copy" x="48" y="68">Backend owns applications, repayment schedules and auth; the mobile app keeps borrowers in the loop.</text>
       <text class="meta" x="48" y="87">TYPESCRIPT &#183; DART &#183; FLUTTER &#183; REST</text>
       <line class="rule" x1="48" y1="104" x2="952" y2="104"/>
     </g>
-    <g class="row r9" transform="translate(0 900)">
-      <text class="title" x="48" y="24">09 / SPOTIFY REDESIGN</text>
+    <g class="row r12" transform="translate(0 1978)">
+      <text class="title" x="48" y="24">18 / SPOTIFY REDESIGN</text>
       <text class="copy" x="48" y="49">Juxtopposed&#39;s Spotify concept rebuilt as a working Flutter application rather than a static mockup.</text>
       <text class="copy" x="48" y="68">Exercise in translating a strong visual redesign into real widgets, motion and navigation.</text>
       <text class="meta" x="48" y="87">DART &#183; FLUTTER &#183; UI ENGINEERING &#183; MOTION</text>
       <line class="rule" x1="48" y1="104" x2="952" y2="104"/>
     </g>
-    <g class="row r10" transform="translate(0 1010)">
-      <text class="title" x="48" y="24">10 / COVIDAPP</text>
+    <g class="row r12" transform="translate(0 2088)">
+      <text class="title" x="48" y="24">19 / COVIDAPP</text>
       <text class="copy" x="48" y="49">Final-year project: a Flutter application for tracking and surfacing COVID-19 information.</text>
       <text class="copy" x="48" y="68">Cross-platform build over live data sources with an interface aimed at non-technical users.</text>
       <text class="meta" x="48" y="87">FLUTTER &#183; DART &#183; REST &#183; FINAL YEAR PROJECT</text>
       <line class="rule" x1="48" y1="104" x2="952" y2="104"/>
     </g>
-    <g class="row r11" transform="translate(0 1120)">
-      <text class="title" x="48" y="24">11 / BLOODSPOT</text>
+    <g class="row r12" transform="translate(0 2198)">
+      <text class="title" x="48" y="24">20 / BLOODSPOT</text>
       <text class="copy" x="48" y="49">Blood donation app built for a friend, taken from a Dribbble concept through to a shipped client.</text>
       <text class="copy" x="48" y="68">Paired with a PHP admin panel for managing donors, drives and donation records.</text>
       <text class="meta" x="48" y="87">FLUTTER &#183; PHP &#183; MYSQL &#183; ADMIN PANEL</text>
       <line class="rule" x1="48" y1="104" x2="952" y2="104"/>
     </g>
-    <g class="row r12" transform="translate(0 1230)">
-      <text class="title" x="48" y="24">12 / SIMPLE_SHELL &#183; PRINTF &#183; MONTY</text>
+    <g class="row r12" transform="translate(0 2308)">
+      <text class="title" x="48" y="24">21 / SIMPLE_SHELL &#183; PRINTF &#183; MONTY</text>
       <text class="copy" x="48" y="49">Low-level C work: a UNIX shell reimplementation, a printf clone and a stack-based bytecode interpreter.</text>
       <text class="copy" x="48" y="68">Where the fundamentals came from &#8212; memory management, parsing, syscalls and process control.</text>
       <text class="meta" x="48" y="87">C &#183; SYSCALLS &#183; MEMORY MANAGEMENT &#183; ALX</text>

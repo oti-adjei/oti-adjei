@@ -12,16 +12,16 @@
 
   <g class="rise a1">
     <text class="mono" x="48" y="42"  font-size="12" fill="var(--accent)" letter-spacing="2">2026</text>
-    <text class="mono" x="136" y="42"  font-size="15" fill="var(--bone)">Independent &#183; Software Engineer &#183; Accra, Ghana</text>
-    <text class="mono" x="136" y="68"  font-size="14" fill="var(--muted)">client web and mobile builds end to end &#8212; design handoff through deploy</text>
-    <text class="mono" x="136" y="90"  font-size="14" fill="var(--muted)">building developer tooling in the open and streaming the work on Twitch</text>
+    <text class="mono" x="136" y="42"  font-size="15" fill="var(--bone)">Senvon Atelier &#183; Founder &amp; Engineer &#183; Accra &#183; senvon.studio</text>
+    <text class="mono" x="136" y="68"  font-size="14" fill="var(--muted)">digital studio building storefronts, admin portals and the services underneath them</text>
+    <text class="mono" x="136" y="90"  font-size="14" fill="var(--muted)">Go and TypeScript backends &#183; Astro frontends &#183; Flutter clients &#183; 18 repos shipped</text>
   </g>
 
   <g class="rise a2">
     <text class="mono" x="48" y="138" font-size="12" fill="var(--accent)" letter-spacing="2">2025</text>
-    <text class="mono" x="136" y="138" font-size="15" fill="var(--bone)">Freelance product work &#183; e-commerce, billing, healthcare</text>
-    <text class="mono" x="136" y="164" font-size="14" fill="var(--muted)">Nawura Angyique boutique storefront on a Strapi backend &#183; payQuill invoicing</text>
-    <text class="mono" x="136" y="186" font-size="14" fill="var(--muted)">aether-care healthcare API &#183; Arkyt scaffolding CLI released in Go</text>
+    <text class="mono" x="136" y="138" font-size="15" fill="var(--bone)">Senvon Atelier founded &#183; independent product work before it</text>
+    <text class="mono" x="136" y="164" font-size="14" fill="var(--muted)">zook &#8212; Go deploy controller for Docker Compose and systemd, shipped via Homebrew</text>
+    <text class="mono" x="136" y="186" font-size="14" fill="var(--muted)">Arkyt scaffolding CLI in Go &#183; payQuill invoicing &#183; aether-care healthcare API</text>
   </g>
 
   <g class="rise a3">
