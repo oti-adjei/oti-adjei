@@ -76,7 +76,7 @@
       <line class="rule" x1="48" y1="104" x2="952" y2="104"/>
     </g>
     <g class="row r9" transform="translate(0 944)">
-      <text class="title" x="48" y="24">09 / GATORAID</text>
+      <text class="title" x="48" y="24">09 / TALLYY</text>
       <text class="copy" x="48" y="49">Most recent studio build, in active development &#8212; an even split of Go and TypeScript.</text>
       <text class="copy" x="48" y="68">Go services over PostgreSQL with stored procedures, containerised, behind a TypeScript client.</text>
       <text class="meta" x="48" y="87">GO &#183; TYPESCRIPT &#183; POSTGRESQL &#183; PL/PGSQL &#183; DOCKER</text>
@@ -116,55 +116,6 @@
       <text class="copy" x="48" y="49">Invoice and receipt generator for small operators who need documents out the door quickly.</text>
       <text class="copy" x="48" y="68">Handles line items, totals and export so billing stops being a spreadsheet exercise.</text>
       <text class="meta" x="48" y="87">TYPESCRIPT &#183; NODE.JS &#183; PDF EXPORT &#183; BILLING</text>
-      <line class="rule" x1="48" y1="104" x2="952" y2="104"/>
-    </g>
-    <g class="row r12" transform="translate(0 1648)">
-      <text class="title" x="48" y="24">15 / CHRYSALIS BLUEPRINT</text>
-      <text class="copy" x="48" y="49">Automates Discord server creation by generating whole channel, category and role structures.</text>
-      <text class="copy" x="48" y="68">Turns a repeated hour of manual setup into a declarative blueprint applied in one pass.</text>
-      <text class="meta" x="48" y="87">TYPESCRIPT &#183; DISCORD API &#183; AUTOMATION</text>
-      <line class="rule" x1="48" y1="104" x2="952" y2="104"/>
-    </g>
-    <g class="row r12" transform="translate(0 1758)">
-      <text class="title" x="48" y="24">16 / AETHER-CARE</text>
-      <text class="copy" x="48" y="49">Healthcare management API covering patient records, appointments and clinical workflow endpoints.</text>
-      <text class="copy" x="48" y="68">Typed service layer with authentication and role separation across clinical and admin access.</text>
-      <text class="meta" x="48" y="87">TYPESCRIPT &#183; NODE.JS &#183; REST API &#183; HEALTHCARE</text>
-      <line class="rule" x1="48" y1="104" x2="952" y2="104"/>
-    </g>
-    <g class="row r12" transform="translate(0 1868)">
-      <text class="title" x="48" y="24">17 / LOANIFY</text>
-      <text class="copy" x="48" y="49">Loan management system split across a TypeScript backend and a Flutter client.</text>
-      <text class="copy" x="48" y="68">Backend owns applications, repayment schedules and auth; the mobile app keeps borrowers in the loop.</text>
-      <text class="meta" x="48" y="87">TYPESCRIPT &#183; DART &#183; FLUTTER &#183; REST</text>
-      <line class="rule" x1="48" y1="104" x2="952" y2="104"/>
-    </g>
-    <g class="row r12" transform="translate(0 1978)">
-      <text class="title" x="48" y="24">18 / SPOTIFY REDESIGN</text>
-      <text class="copy" x="48" y="49">Juxtopposed&#39;s Spotify concept rebuilt as a working Flutter application rather than a static mockup.</text>
-      <text class="copy" x="48" y="68">Exercise in translating a strong visual redesign into real widgets, motion and navigation.</text>
-      <text class="meta" x="48" y="87">DART &#183; FLUTTER &#183; UI ENGINEERING &#183; MOTION</text>
-      <line class="rule" x1="48" y1="104" x2="952" y2="104"/>
-    </g>
-    <g class="row r12" transform="translate(0 2088)">
-      <text class="title" x="48" y="24">19 / COVIDAPP</text>
-      <text class="copy" x="48" y="49">Final-year project: a Flutter application for tracking and surfacing COVID-19 information.</text>
-      <text class="copy" x="48" y="68">Cross-platform build over live data sources with an interface aimed at non-technical users.</text>
-      <text class="meta" x="48" y="87">FLUTTER &#183; DART &#183; REST &#183; FINAL YEAR PROJECT</text>
-      <line class="rule" x1="48" y1="104" x2="952" y2="104"/>
-    </g>
-    <g class="row r12" transform="translate(0 2198)">
-      <text class="title" x="48" y="24">20 / BLOODSPOT</text>
-      <text class="copy" x="48" y="49">Blood donation app built for a friend, taken from a Dribbble concept through to a shipped client.</text>
-      <text class="copy" x="48" y="68">Paired with a PHP admin panel for managing donors, drives and donation records.</text>
-      <text class="meta" x="48" y="87">FLUTTER &#183; PHP &#183; MYSQL &#183; ADMIN PANEL</text>
-      <line class="rule" x1="48" y1="104" x2="952" y2="104"/>
-    </g>
-    <g class="row r12" transform="translate(0 2308)">
-      <text class="title" x="48" y="24">21 / SIMPLE_SHELL &#183; PRINTF &#183; MONTY</text>
-      <text class="copy" x="48" y="49">Low-level C work: a UNIX shell reimplementation, a printf clone and a stack-based bytecode interpreter.</text>
-      <text class="copy" x="48" y="68">Where the fundamentals came from &#8212; memory management, parsing, syscalls and process control.</text>
-      <text class="meta" x="48" y="87">C &#183; SYSCALLS &#183; MEMORY MANAGEMENT &#183; ALX</text>
       <line class="rule" x1="48" y1="104" x2="952" y2="104"/>
     </g>
   </g>
