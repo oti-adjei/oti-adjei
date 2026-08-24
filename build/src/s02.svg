@@ -8,7 +8,7 @@
     @media (prefers-reduced-motion: reduce) {
       .draw,.f { animation: none; } .draw { stroke-dashoffset: 0; } .f { opacity: 1; }
     }
-    :root { --bone:#EDEDED; --muted:#8B949E; --dim:#5E656D; --rule:#30363D; --accent:#EDEDED; --ghost:#1B1F24; --node-bg:#0D1117; --core-bg:#161B22; --ink:#EDEDED; --paper:#0D1117; }
+    /*@THEME@*/
   </style>
   <g class="f">
     <text class="mono" x="48" y="68" font-size="52" fill="var(--ghost)">02</text>
