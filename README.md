@@ -2,7 +2,7 @@
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/header.svg"/><img src="assets/header.svg" alt="George — Software Engineer, Mobile & Web"/></picture>
 
-<a href="https://github.com/hungrybeardev"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/GITHUB-0d1117?style=flat-square&logo=github&logoColor=ffffff"/><img src="https://img.shields.io/badge/GITHUB-ffffff?style=flat-square&logo=github&logoColor=000000" alt="GitHub"/></picture></a>
+<a href="https://github.com/oti-adjei"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/GITHUB-0d1117?style=flat-square&logo=github&logoColor=ffffff"/><img src="https://img.shields.io/badge/GITHUB-ffffff?style=flat-square&logo=github&logoColor=000000" alt="GitHub"/></picture></a>
 <a href="https://www.twitch.tv/hungrybeardev"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/TWITCH-0d1117?style=flat-square&logo=twitch&logoColor=ffffff"/><img src="https://img.shields.io/badge/TWITCH-ffffff?style=flat-square&logo=twitch&logoColor=000000" alt="Twitch"/></picture></a>
 
 </div>
@@ -19,8 +19,8 @@
 
 <div align="center">
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=hungrybeardev&show_icons=true&theme=default&hide_border=true&bg_color=0A0A0A&title_color=ffffff&text_color=cccccc&icon_color=ffffff"/><img src="https://github-readme-stats.vercel.app/api?username=hungrybeardev&show_icons=true&theme=default&hide_border=true&bg_color=FAFAFA&title_color=0A0A0A&text_color=333333&icon_color=0A0A0A" width="48%" alt="GitHub stats"/></picture>
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=hungrybeardev&layout=compact&theme=default&hide_border=true&bg_color=0A0A0A&title_color=ffffff&text_color=cccccc"/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hungrybeardev&layout=compact&theme=default&hide_border=true&bg_color=FAFAFA&title_color=0A0A0A&text_color=333333" width="48%" alt="Top languages"/></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=oti-adjei&show_icons=true&theme=default&hide_border=true&bg_color=0A0A0A&title_color=ffffff&text_color=cccccc&icon_color=ffffff"/><img src="https://github-readme-stats.vercel.app/api?username=oti-adjei&show_icons=true&theme=default&hide_border=true&bg_color=FAFAFA&title_color=0A0A0A&text_color=333333&icon_color=0A0A0A" width="48%" alt="GitHub stats"/></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=oti-adjei&layout=compact&theme=default&hide_border=true&bg_color=0A0A0A&title_color=ffffff&text_color=cccccc"/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oti-adjei&layout=compact&theme=default&hide_border=true&bg_color=FAFAFA&title_color=0A0A0A&text_color=333333" width="48%" alt="Top languages"/></picture>
 
 </div>
 
