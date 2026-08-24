@@ -2,6 +2,7 @@
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/header.svg"/><img src="assets/header.svg" alt="George Heavenson — Software Engineer, Founder of Senvon Atelier"/></picture>
 
+<a href="https://hearvie.dev"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/GEORGE.HEAVENSON-0d1117?style=flat-square&logoColor=ffffff"/><img src="https://img.shields.io/badge/GEORGE.HEAVENSON-ffffff?style=flat-square&logoColor=000000" alt="Portfolio"/></picture></a>
 <a href="https://senvon.studio"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/SENVON.STUDIO-0d1117?style=flat-square&logoColor=ffffff"/><img src="https://img.shields.io/badge/SENVON.STUDIO-ffffff?style=flat-square&logoColor=000000" alt="Senvon Studio"/></picture></a>
 <a href="https://github.com/oti-adjei"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/GITHUB-0d1117?style=flat-square&logo=github&logoColor=ffffff"/><img src="https://img.shields.io/badge/GITHUB-ffffff?style=flat-square&logo=github&logoColor=000000" alt="GitHub"/></picture></a>
 <a href="https://www.twitch.tv/hungrybeardev"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/TWITCH-0d1117?style=flat-square&logo=twitch&logoColor=ffffff"/><img src="https://img.shields.io/badge/TWITCH-ffffff?style=flat-square&logo=twitch&logoColor=000000" alt="Twitch"/></picture></a>
