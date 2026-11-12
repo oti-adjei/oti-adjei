@@ -15,5 +15,5 @@
     <text class="mono" x="128" y="58" font-size="14" fill="var(--accent)" letter-spacing="6">WHOAMI</text>
     <text class="mono" x="952" y="58" font-size="11" fill="var(--muted)" letter-spacing="2" text-anchor="end">~/01-whoami</text>
   </g>
-  <line class="draw" x1="248" y1="53" x2="831" y2="53"/>
+  <line class="draw" x1="250" y1="53" x2="831" y2="53"/>
 </svg>

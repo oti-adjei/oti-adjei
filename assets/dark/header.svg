@@ -25,7 +25,7 @@
     <text fill="var(--bone)" class="mono" x="46" y="176" font-size="72" letter-spacing="-2">George Heavenson</text>
   </g>
   <g class="fade a3">
-    <text fill="var(--muted)" class="mono" x="48" y="214" font-size="19">Software Engineer &#183; Founder, Senvon Atelier. Accra, Ghana.</text>
+    <text fill="var(--muted)" class="mono" x="48" y="214" font-size="19">Software Engineer &#8212; mobile, full-stack and backend. Accra, Ghana.</text>
   </g>
 
   <g class="fade a4">
