@@ -9,7 +9,7 @@
   </style>
 
   <text class="mono rise a1" x="48" y="32" font-size="16" fill="var(--bone)">software engineer in Accra, Ghana &#8212; building mobile and web applications.</text>
-  <text class="mono rise a2" x="48" y="60" font-size="16" fill="var(--bone)">founder of Senvon Atelier, a digital studio shipping storefronts, portals and the APIs behind them.</text>
+  <text class="mono rise a2" x="48" y="60" font-size="16" fill="var(--bone)">I also run Senvon Atelier, a small studio shipping storefronts, portals and the APIs behind them.</text>
   <text class="mono rise a3" x="48" y="88" font-size="15" fill="var(--muted)">TypeScript and Go for services, Astro and Flutter for clients. came up through C. still live in the terminal.</text>
 
   <line class="rise a4" x1="48" y1="116" x2="952" y2="116" stroke="var(--rule)" stroke-width="1" opacity=".5"/>
@@ -18,7 +18,7 @@
   <text class="mono rise a4" x="154" y="148" font-size="15" fill="var(--bone)">Go &amp; TypeScript Services &#183; Astro Storefronts &#183; Flutter Apps &#183; Dev Tooling</text>
 
   <text class="mono rise a5" x="48"  y="182" font-size="11" fill="var(--muted)" letter-spacing="2.5">STATUS</text>
-  <text class="mono rise a5" x="154" y="182" font-size="15" fill="var(--accent)">running Senvon Atelier &#183; building in public &#183; streaming on Twitch</text>
+  <text class="mono rise a5" x="154" y="182" font-size="15" fill="var(--accent)">open to engineering roles &#183; building in public &#183; streaming on Twitch</text>
 
   <text class="mono rise a6" x="48"  y="216" font-size="11" fill="var(--muted)" letter-spacing="2.5">OFF CLOCK</text>
   <text class="mono rise a6" x="154" y="216" font-size="15" fill="var(--bone)">video games, tech reading, and making open source less intimidating</text>

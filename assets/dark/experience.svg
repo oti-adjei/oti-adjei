@@ -1,39 +1,45 @@
-<svg viewBox="0 0 1000 370" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Track record — independent client work, freelance product builds, ALX software engineering, university computer science">
+<svg viewBox="0 0 1000 390" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Track record — five engineering roles across mobile, full-stack and backend work in Accra and remote">
   <style>
     .mono { font-family: ui-monospace, "SFMono-Regular", "SF Mono", Menlo, Consolas, "Liberation Mono", monospace; }
     .rise { opacity: 0; animation: rise .7s cubic-bezier(.2,.7,.2,1) forwards; }
     @keyframes rise { from { opacity:0;transform:translateY(8px); } to { opacity:1;transform:translateY(0); } }
-    .a1{animation-delay:.15s} .a2{animation-delay:.35s} .a3{animation-delay:.55s} .a4{animation-delay:.75s}
+    .a1{animation-delay:.10s} .a2{animation-delay:.22s} .a3{animation-delay:.34s} .a4{animation-delay:.46s}
+    .a5{animation-delay:.58s} .a6{animation-delay:.70s} .a7{animation-delay:.82s}
     @media (prefers-reduced-motion: reduce) { .rise { animation: none; opacity: 1; } }
     :root { --bone:#EDEDED; --muted:#8B949E; --dim:#5E656D; --rule:#30363D; --accent:#EDEDED; --ghost:#1B1F24; --node-bg:#0D1117; --core-bg:#161B22; --ink:#EDEDED; --paper:#0D1117; }
   </style>
 
-  <line x1="120" y1="10" x2="120" y2="360" stroke="var(--rule)" stroke-width="1" opacity=".4"/>
+  <line x1="136" y1="10" x2="136" y2="380" stroke="var(--rule)" stroke-width="1" opacity=".4"/>
 
   <g class="rise a1">
-    <text class="mono" x="48" y="42"  font-size="12" fill="var(--accent)" letter-spacing="2">2026</text>
-    <text class="mono" x="136" y="42"  font-size="15" fill="var(--bone)">Senvon Atelier &#183; Founder &amp; Engineer &#183; Accra &#183; senvon.studio</text>
-    <text class="mono" x="136" y="68"  font-size="14" fill="var(--muted)">digital studio building storefronts, admin portals and the services underneath them</text>
-    <text class="mono" x="136" y="90"  font-size="14" fill="var(--muted)">Go and TypeScript backends &#183; Astro frontends &#183; Flutter clients &#183; 18 repos shipped</text>
+    <text class="mono" x="48" y="42" font-size="12" fill="var(--accent)" letter-spacing="1">2026</text>
+    <text class="mono" x="152" y="42" font-size="15" fill="var(--bone)">MashHarder &#183; Lead Software Engineer, Frontend Architecture</text>
+    <text class="mono" x="152" y="66" font-size="14" fill="var(--muted)">Lit and Shadow DOM component library consumed by React, Astro and Next.js</text>
   </g>
 
   <g class="rise a2">
-    <text class="mono" x="48" y="138" font-size="12" fill="var(--accent)" letter-spacing="2">2025</text>
-    <text class="mono" x="136" y="138" font-size="15" fill="var(--bone)">Senvon Atelier founded &#183; independent product work before it</text>
-    <text class="mono" x="136" y="164" font-size="14" fill="var(--muted)">zook &#8212; Go deploy controller for Docker Compose and systemd, shipped via Homebrew</text>
-    <text class="mono" x="136" y="186" font-size="14" fill="var(--muted)">Arkyt scaffolding CLI in Go &#183; payQuill invoicing &#183; aether-care healthcare API</text>
+    <text class="mono" x="48" y="112" font-size="12" fill="var(--accent)" letter-spacing="1">2025&#8211;</text>
+    <text class="mono" x="152" y="112" font-size="15" fill="var(--bone)">Senvon Atelier &#183; Software Engineer &amp; Studio Lead &#183; Accra</text>
+    <text class="mono" x="152" y="136" font-size="14" fill="var(--muted)">Storefronts, admin portals and the Go and TypeScript services underneath them</text>
   </g>
 
   <g class="rise a3">
-    <text class="mono" x="48" y="234" font-size="12" fill="var(--accent)" letter-spacing="1">2023&#8211;24</text>
-    <text class="mono" x="136" y="234" font-size="15" fill="var(--bone)">ALX Software Engineering &#183; Full-Stack Track</text>
-    <text class="mono" x="136" y="260" font-size="14" fill="var(--muted)">C fundamentals &#8212; shell reimplementation, printf clone, bytecode interpreter</text>
-    <text class="mono" x="136" y="282" font-size="14" fill="var(--muted)">Python, Linux and DevOps coursework &#183; AirBnB clone team project</text>
+    <text class="mono" x="48" y="182" font-size="12" fill="var(--accent)" letter-spacing="1">2025</text>
+    <text class="mono" x="152" y="182" font-size="15" fill="var(--bone)">Suronntech &#183; Software Engineer &#183; Accra</text>
+    <text class="mono" x="152" y="206" font-size="14" fill="var(--muted)">Flutter and React Native clients, Next.js front ends, Azure</text>
   </g>
 
   <g class="rise a4">
-    <text class="mono" x="48" y="330" font-size="12" fill="var(--accent)" letter-spacing="1">2019&#8211;22</text>
-    <text class="mono" x="136" y="330" font-size="15" fill="var(--bone)">University Computer Science &#183; Mobile &amp; Web Track</text>
-    <text class="mono" x="136" y="356" font-size="14" fill="var(--muted)">CovidApp final-year project &#183; BloodSpot donation app with a PHP admin panel</text>
+    <text class="mono" x="48" y="252" font-size="12" fill="var(--accent)" letter-spacing="1">2024</text>
+    <text class="mono" x="152" y="252" font-size="15" fill="var(--bone)">Enyata Ghana &#183; Mobile Developer &#183; Accra</text>
+    <text class="mono" x="152" y="276" font-size="14" fill="var(--muted)">Flutter fintech &#8212; savings and micro-credit, Riverpod, Firebase, GraphQL</text>
   </g>
+
+  <g class="rise a5">
+    <text class="mono" x="48" y="322" font-size="12" fill="var(--accent)" letter-spacing="1">2022&#8211;23</text>
+    <text class="mono" x="152" y="322" font-size="15" fill="var(--bone)">teamAlpha &#183; Mobile Engineer &#183; Remote</text>
+    <text class="mono" x="152" y="346" font-size="14" fill="var(--muted)">Flutter clients and backend services for over 8,000 active users</text>
+  </g>
+
+
 </svg>
