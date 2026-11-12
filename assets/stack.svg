@@ -6,6 +6,7 @@
     .a1{animation-delay:.1s} .a2{animation-delay:.2s} .a3{animation-delay:.3s} .a4{animation-delay:.4s} .a5{animation-delay:.5s} .a6{animation-delay:.6s} .a7{animation-delay:.7s}
     @media (prefers-reduced-motion: reduce) { .rise { animation: none; opacity: 1; } }
     :root { --bone:#0A0A0A; --muted:#6E6E6E; --dim:#9A9A9A; --rule:#D8D8D8; --accent:#0A0A0A; --ghost:#EBEBEB; --node-bg:#FFFFFF; --core-bg:#F4F4F4; --ink:#0A0A0A; --paper:#FFFFFF; }
+    @media (prefers-color-scheme: dark) { :root { --bone:#EDEDED; --muted:#8B949E; --dim:#5E656D; --rule:#30363D; --accent:#EDEDED; --ghost:#1B1F24; --node-bg:#0D1117; --core-bg:#161B22; --ink:#EDEDED; --paper:#0D1117; } }
   </style>
 
   <line x1="138" y1="8" x2="138" y2="230" stroke="var(--rule)" stroke-width="1" opacity=".4"/>

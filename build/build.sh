@@ -54,8 +54,16 @@ count=0
 for f in "$src"/*.svg "$tmp"/*.svg; do
   name="$(basename "$f")"
   case "$name" in _*) continue ;; esac
-  awk -v repl="$light" '{ if ($0 ~ /\/\*@THEME@\*\//) print "    " repl; else print }' "$f" > "$out/$name"
-  awk -v repl="$dark"  '{ if ($0 ~ /\/\*@THEME@\*\//) print "    " repl; else print }' "$f" > "$out/dark/$name"
+  # The light twin also carries the dark palette behind a prefers-color-scheme
+  # query. GitHub's <picture> switch picks a file from the browser's colour
+  # scheme, which can resolve light even when the site theme is dark -- when
+  # that happens this file is served into a dark page, and the query saves it.
+  awk -v repl="$light" -v darkrepl="$dark" '
+    { if ($0 ~ /\/\*@THEME@\*\//) {
+        print "    " repl
+        print "    @media (prefers-color-scheme: dark) { " darkrepl " }"
+      } else print }' "$f" > "$out/$name"
+  awk -v repl="$dark" '{ if ($0 ~ /\/\*@THEME@\*\//) print "    " repl; else print }' "$f" > "$out/dark/$name"
   count=$((count + 1))
 done
 
