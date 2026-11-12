@@ -10,8 +10,8 @@
   </style>
 
   <text class="mono rise a1" x="48" y="32" font-size="16" fill="var(--bone)">software engineer in Accra, Ghana &#8212; building mobile and web applications.</text>
-  <text class="mono rise a2" x="48" y="60" font-size="16" fill="var(--bone)">currently Software Engineer and Studio Lead at Senvon Atelier, on storefronts, portals and their APIs.</text>
-  <text class="mono rise a3" x="48" y="88" font-size="15" fill="var(--muted)">TypeScript and Go for services, Astro and Flutter for clients. came up through C. still live in the terminal.</text>
+  <text class="mono rise a2" x="48" y="60" font-size="16" fill="var(--bone)">currently Software Engineer and Studio Lead at Senvon Atelier &#8212; storefronts, portals, APIs.</text>
+  <text class="mono rise a3" x="48" y="88" font-size="15" fill="var(--muted)">TypeScript and Go for services, Astro and Flutter for clients. came up through C.</text>
 
   <line class="rise a4" x1="48" y1="116" x2="952" y2="116" stroke="var(--rule)" stroke-width="1" opacity=".5"/>
 
