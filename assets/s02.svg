@@ -9,6 +9,7 @@
       .draw,.f { animation: none; } .draw { stroke-dashoffset: 0; } .f { opacity: 1; }
     }
     :root { --bone:#0A0A0A; --muted:#6E6E6E; --dim:#9A9A9A; --rule:#D8D8D8; --accent:#0A0A0A; --ghost:#EBEBEB; --node-bg:#FFFFFF; --core-bg:#F4F4F4; --ink:#0A0A0A; --paper:#FFFFFF; }
+    @media (prefers-color-scheme: dark) { :root { --bone:#EDEDED; --muted:#8B949E; --dim:#5E656D; --rule:#30363D; --accent:#EDEDED; --ghost:#1B1F24; --node-bg:#0D1117; --core-bg:#161B22; --ink:#EDEDED; --paper:#0D1117; } }
   </style>
   <g class="f">
     <text class="mono" x="48" y="68" font-size="52" fill="var(--ghost)">02</text>
