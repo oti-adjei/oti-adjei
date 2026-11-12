@@ -14,7 +14,13 @@
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/whoami.svg"/><img src="assets/whoami.svg" alt="About George"/></picture>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/s02.svg"/><img src="assets/s02.svg" alt="02 — selected work"/></picture>
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/projects.svg"/><img src="assets/projects.svg" alt="Six selected projects"/></picture>
+<p align="center"><a href="https://signal-web-olive.vercel.app"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/card01.svg"/><img src="assets/card01.svg" alt="Signal" width="390"/></picture></a> <a href="https://nagyeboutique.ca"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/card02.svg"/><img src="assets/card02.svg" alt="Nagyique Boutique" width="390"/></picture></a></p>
+
+<p align="center"><a href="https://github.com/oti-adjei/zook"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/card03.svg"/><img src="assets/card03.svg" alt="Zook" width="390"/></picture></a> <a href="https://mote-ebon.vercel.app"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/card04.svg"/><img src="assets/card04.svg" alt="Mote" width="390"/></picture></a></p>
+
+<p align="center"><a href="https://github.com/oti-adjei/wolevo-mobile"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/card05.svg"/><img src="assets/card05.svg" alt="Wolevo" width="390"/></picture></a> <a href="https://gulliverstravelhotelgh.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/card06.svg"/><img src="assets/card06.svg" alt="Gullivers Travel Hotel" width="390"/></picture></a></p>
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/also.svg"/><img src="assets/also.svg" alt="Also: Gatoraid, Chrysalis Blueprint, moba17, Lue Cosmetics"/></picture>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/s03.svg"/><img src="assets/s03.svg" alt="03 — the route"/></picture>
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/experience.svg"/><img src="assets/experience.svg" alt="Track record"/></picture>

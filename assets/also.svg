@@ -1,0 +1,20 @@
+<svg viewBox="0 0 1000 74" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Also: Gatoraid, Chrysalis Blueprint, moba17, Lue Cosmetics">
+  <style>
+    .mono { font-family:ui-monospace,"SFMono-Regular","SF Mono",Menlo,Consolas,"Liberation Mono",monospace; }
+    .row { opacity:0; animation:reveal .55s cubic-bezier(.2,.7,.2,1) .35s forwards; }
+    .grule { stroke:var(--rule); stroke-width:1; opacity:.5; }
+    .glabel { fill:var(--accent); font-size:11px; letter-spacing:3.5px; }
+    .more { fill:var(--muted); font-size:12px; letter-spacing:1.2px; }
+    .note { fill:var(--dim); font-size:11px; letter-spacing:.4px; }
+    @keyframes reveal { from { opacity:0; } to { opacity:1; } }
+    @media (prefers-reduced-motion:reduce) { .row { animation:none; opacity:1; } }
+    :root { --bone:#0A0A0A; --muted:#6E6E6E; --dim:#9A9A9A; --rule:#D8D8D8; --accent:#0A0A0A; --ghost:#EBEBEB; --node-bg:#FFFFFF; --core-bg:#F4F4F4; --ink:#0A0A0A; --paper:#FFFFFF; }
+    @media (prefers-color-scheme: dark) { :root { --bone:#EDEDED; --muted:#8B949E; --dim:#5E656D; --rule:#30363D; --accent:#EDEDED; --ghost:#1B1F24; --node-bg:#0D1117; --core-bg:#161B22; --ink:#EDEDED; --paper:#0D1117; } }
+  </style>
+  <g class="mono row">
+    <text class="glabel" x="48" y="18">ALSO</text>
+    <line class="grule" x1="48" y1="30" x2="952" y2="30"/>
+    <text class="more" x="48" y="58">GATORAID &#183; CHRYSALIS BLUEPRINT &#183; MOBA17 &#183; LUE COSMETICS</text>
+    <text class="note" x="952" y="58" text-anchor="end">github.com/oti-adjei?tab=repositories</text>
+  </g>
+</svg>

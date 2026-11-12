@@ -1,0 +1,21 @@
+<svg viewBox="0 0 440 132" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="05 — WOLEVO">
+  <style>
+    .mono { font-family:ui-monospace,"SFMono-Regular","SF Mono",Menlo,Consolas,"Liberation Mono",monospace; }
+    .card { opacity:0; animation:reveal .55s cubic-bezier(.2,.7,.2,1) .05s forwards; }
+    .rule { stroke:var(--rule); stroke-width:1; }
+    .title { fill:var(--ink); font-size:17px; font-weight:700; letter-spacing:.8px; }
+    .copy { fill:var(--muted); font-size:12px; }
+    .meta { fill:var(--dim); font-size:11px; letter-spacing:.4px; }
+    @keyframes reveal { from { opacity:0; } to { opacity:1; } }
+    @media (prefers-reduced-motion:reduce) { .card { animation:none; opacity:1; } }
+    :root { --bone:#0A0A0A; --muted:#6E6E6E; --dim:#9A9A9A; --rule:#D8D8D8; --accent:#0A0A0A; --ghost:#EBEBEB; --node-bg:#FFFFFF; --core-bg:#F4F4F4; --ink:#0A0A0A; --paper:#FFFFFF; }
+    @media (prefers-color-scheme: dark) { :root { --bone:#EDEDED; --muted:#8B949E; --dim:#5E656D; --rule:#30363D; --accent:#EDEDED; --ghost:#1B1F24; --node-bg:#0D1117; --core-bg:#161B22; --ink:#EDEDED; --paper:#0D1117; } }
+  </style>
+  <g class="mono card">
+    <text class="title" x="20" y="22">05 / WOLEVO</text>
+    <text class="copy" x="20" y="50">Flutter client for a shop-and-ship service delivering</text>
+    <text class="copy" x="20" y="68">from US stores to Ghana and Nigeria.</text>
+    <text class="meta" x="20" y="94">FLUTTER &#183; DART &#183; MOBILE</text>
+    <line class="rule" x1="20" y1="114" x2="420" y2="114"/>
+  </g>
+</svg>

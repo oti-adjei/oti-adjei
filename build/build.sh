@@ -31,6 +31,17 @@ sections=(
   "TELEMETRY|telemetry"
 )
 
+# One entry per project card: "NUM|TITLE|line one|line two|TECH META"
+# Each becomes its own image so the README can wrap it in a link.
+cards=(
+  "01|SIGNAL|Esports news and tournament platform, in active|development.|TYPESCRIPT &#183; WEB &#183; IN DEVELOPMENT"
+  "02|NAGYIQUE BOUTIQUE|Boutique e-commerce: Astro storefront, admin portal|and a TypeScript API on Workers, with Stripe.|ASTRO &#183; TYPESCRIPT &#183; STRIPE &#183; WORKERS &#183; SENVON"
+  "03|ZOOK|Tiny deploy controller for Docker Compose and native|systemd apps. Ships through its own Homebrew tap.|GO &#183; DOCKER &#183; SYSTEMD &#183; HOMEBREW"
+  "04|MOTE|Deterministic animated background fields &#8212; designed|shape sets, not generic particles.|TYPESCRIPT &#183; CANVAS &#183; OPEN SOURCE"
+  "05|WOLEVO|Flutter client for a shop-and-ship service delivering|from US stores to Ghana and Nigeria.|FLUTTER &#183; DART &#183; MOBILE"
+  "06|GULLIVERS TRAVEL HOTEL|Hotel site with amenities, services and booking.|Shipped once, then rebuilt in React on Cloudflare.|REACT &#183; CLOUDFLARE PAGES &#183; D1 &#183; SENVON"
+)
+
 mkdir -p "$out/dark"
 
 # Expand the divider template into $tmp, one file per section.
@@ -50,6 +61,19 @@ for entry in "${sections[@]}"; do
       "$src/_section.svg" > "$tmp/s$num.svg"
 done
 
+# Expand the card template into $tmp, one file per project.
+for entry in "${cards[@]}"; do
+  IFS='|' read -r num title c1 c2 meta <<< "$entry"
+  # & is "the matched text" to sed, and these strings carry HTML entities
+  title="${title//&/\\&}"; c1="${c1//&/\\&}"; c2="${c2//&/\\&}"; meta="${meta//&/\\&}"
+  sed -e "s/@NUM@/$num/g" \
+      -e "s/@TITLE@/$title/g" \
+      -e "s|@C1@|$c1|g" \
+      -e "s|@C2@|$c2|g" \
+      -e "s|@META@|$meta|g" \
+      "$src/_card.svg" > "$tmp/card$num.svg"
+done
+
 count=0
 for f in "$src"/*.svg "$tmp"/*.svg; do
   name="$(basename "$f")"
@@ -67,4 +91,4 @@ for f in "$src"/*.svg "$tmp"/*.svg; do
   count=$((count + 1))
 done
 
-echo "built $count asset(s) -> $out and $out/dark (${#sections[@]} generated divider(s))"
+echo "built $count asset(s) -> $out and $out/dark (${#sections[@]} divider(s), ${#cards[@]} card(s))"
